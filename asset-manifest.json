@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/yana-history-site/static/css/main.7910aef4.css",
+    "main.css": "/yana-history-site/static/css/main.054e4729.css",
     "main.js": "/yana-history-site/static/js/main.2c2c3421.js",
     "static/js/787.2686cc61.chunk.js": "/yana-history-site/static/js/787.2686cc61.chunk.js",
     "static/media/rev6.png": "/yana-history-site/static/media/rev6.6e772585c0aca4207b00.png",
@@ -33,12 +33,12 @@
     "static/media/vk.svg": "/yana-history-site/static/media/vk.2239a9919a8526f2d90b89ee08cd1c17.svg",
     "static/media/telegram.svg": "/yana-history-site/static/media/telegram.8f7ed01d3c79b0d24b84a35a3e89a60e.svg",
     "index.html": "/yana-history-site/index.html",
-    "main.7910aef4.css.map": "/yana-history-site/static/css/main.7910aef4.css.map",
+    "main.054e4729.css.map": "/yana-history-site/static/css/main.054e4729.css.map",
     "main.2c2c3421.js.map": "/yana-history-site/static/js/main.2c2c3421.js.map",
     "787.2686cc61.chunk.js.map": "/yana-history-site/static/js/787.2686cc61.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7910aef4.css",
+    "static/css/main.054e4729.css",
     "static/js/main.2c2c3421.js"
   ]
 }
